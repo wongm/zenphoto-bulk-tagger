@@ -1,0 +1,28 @@
+#searchPanel {
+	padding: 5px;
+}
+#searchPanel label {
+	float: left;
+	min-width: 95px;
+	margin: 5px 0;
+	clear: both;
+}
+#searchPanel input {
+	margin: 5px 0;
+	float: left;
+}
+.imageCheckbox {
+	float: right;
+}
+.imageOptionPanel {
+	border-bottom: 1px solid black;
+	padding: 5px;
+}
+.imageOptionPanel label {
+	width: 100%;
+	display: block;
+}
+.welcome {
+	background-color: grey;
+}
+
